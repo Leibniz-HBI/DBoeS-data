@@ -1,6 +1,6 @@
 # Datenbank öffentlicher Sprecher
 
-This repository contains and overview of versioned data of our Database of Public Speakers (Datenbank öffentlicher Sprecher (DBöS))
+This repository contains an overview of versioned data of our Database of Public Speakers (Datenbank öffentlicher Sprecher (DBöS))
 
 ## Usage
 
