@@ -1,0 +1,4 @@
+data_new/
+*.ipynb_checkpoints
+~$*.xlsx
+*.lock
