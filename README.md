@@ -1,16 +1,12 @@
 # Datenbank öffentlicher Sprecher (DBÖS)
 
----
-
-## Nutzer
-
-### Beschreibung
+## Beschreibung
 
 Ziel der „Datenbank öffentlicher Sprecher“ (DBÖS) ist, eine möglichst umfassende und regelmäßig aktualisierte Übersicht von Akteur:innen zu führen, die zu gesellschaftlicher Öffentlichkeit in Deutschland beitragen – im Sinne der die Öffentlichkeit tragenden Medien genauso wie als Sprecher:innen, die in der Öffentlichkeit stehen, oder als Gegenstand öffentlicher Berichterstattung.
 
 Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](DOCUMENTATION.pdf).
 
-### Nutzung
+## Nutzung
 
 Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen bitten wir um eine [Zitation](CITATION).
 
@@ -18,7 +14,7 @@ Die Dateien befinden sich im Ordner '[data](data/)'. Die CSV-Dateien sind entspr
 
 ---
 
-## Contributors
+## Instructions for Contributors
 
 ### Update Instructions
 
