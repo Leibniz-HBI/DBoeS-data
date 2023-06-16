@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Ziel der „Datenbank öffentlicher Sprecher“ (DBÖS) ist, eine möglichst umfassende und regelmäßig aktualisierte Übersicht von Akteur:innen, insbesondere ihrer Web-Präsenzen, zu führen, die zu gesellschaftlicher Öffentlichkeit in Deutschland beitragen – im Sinne der die Öffentlichkeit tragenden Medien genauso wie als Sprecher:innen, die in der Öffentlichkeit stehen, oder als Gegenstand öffentlicher Berichterstattung.
+Ziel der „Datenbank öffentlicher Sprecher“ (DBÖS) ist, eine möglichst umfassende und regelmäßig aktualisierte Übersicht von Akteur:innen und ihren Web-Präsenzen zu führen, die zu gesellschaftlicher Öffentlichkeit in Deutschland beitragen – im Sinne der die Öffentlichkeit tragenden Medien genauso wie als Sprecher:innen, die in der Öffentlichkeit stehen, oder als Gegenstand öffentlicher Berichterstattung.
 
 Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](DOCUMENTATION.pdf).
 
