@@ -8,7 +8,7 @@ Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](D
 
 ## Nutzung
 
-Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen bitten wir um eine [Zitation](CITATION).
+Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen, bitten wir um eine [Zitation](CITATION).
 
 Die Dateien befinden sich im Ordner '[data](data/)'. Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen Kategorien numeriert. Zudem findet sich darin auch eine XSLX-Datei mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
 
