@@ -10,7 +10,7 @@ Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](D
 
 Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen, bitten wir um eine [Zitation](CITATION).
 
-  Schmidt, J.-H., Merten, L., & Münch, F. V. (2023, June 19). DBoeS-data. https://doi.org/10.17605/OSF.IO/SK6T5
+    Schmidt, J.-H., Merten, L., & Münch, F. V. (2023, June 19). DBoeS-data. https://doi.org/10.17605/OSF.IO/SK6T5
 
 Die Dateien befinden sich im Ordner '[data](data/)'. Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen Kategorien numeriert. Zudem findet sich darin auch eine XSLX-Datei mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
 
