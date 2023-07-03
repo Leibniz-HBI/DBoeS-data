@@ -12,7 +12,7 @@ Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich.
 
     Schmidt, J.-H., Merten, L., & Münch, F. V. (2023, June 19). DBoeS-data. https://doi.org/10.17605/OSF.IO/SK6T5
 
-Die Dateien befinden sich im Ordner '[data](data/)'. Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen Kategorien numeriert. Zudem findet sich darin auch eine XLSX-Datei mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
+Die Dateien befinden sich im Ordner [data](data/). Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen und in [types.csv](types.csv) gelisteten Typen numeriert. Zudem findet sich darin auch eine XLSX-Datei mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
 
 Der DBÖS liegt ein typ- und kategorienübergreifendes Datenmodell zugrunde. Die einzelnen Listen enthalten alle die gleichen Variablen, die in Tab. 20 der [Dokumentation](DOCUMENTATION.pdf) erläutert sind. Variablen mit Angaben zu Social-Media-Profilen haben das Präfix „SM_“, kategorienspezifische Variablen (z.B. das Geschlecht bei Personen) das Präfix „K_“ und typenspezifische Variablen (z.B. das Parlament, in dem ein:e Politiker:in das Mandat hat) besitzen das Präfix „T_“. Je nach Typ sind dadurch manche kategorien- und typenspezifischen Variablen leer. Sie sind dennoch in der Tabellenstruktur enthalten, um verschiedene Listen rasch zusammenfügen zu können.
 
