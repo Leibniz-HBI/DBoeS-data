@@ -1,0 +1,11 @@
+type,name_de,name_en
+1,Zeitung,Newspaper
+3,Rundfunksender,radio station
+4,Nachrichtenprogramm,news program
+5,Entertainmentprogramm,entertainment program
+6,Online Only,online only
+7,Nachrichtenagentur,news agency
+9,Parteigliederung,party organization
+15,Behörde,government agency
+20,Journalist:in,journalist
+21,Politiker:in,politician
