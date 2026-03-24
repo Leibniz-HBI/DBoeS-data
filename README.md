@@ -1,8 +1,8 @@
-# Datenbank öffentlicher Sprecher (DBÖS)
+# Datenbank öffentlicher Sprecher:innen (DBÖS)
 
 ## Beschreibung
 
-Ziel der „Datenbank öffentlicher Sprecher“ (DBÖS) ist, eine möglichst umfassende und regelmäßig aktualisierte Übersicht von Akteur:innen und ihren Web-Präsenzen zu führen, die zu gesellschaftlicher Öffentlichkeit in Deutschland beitragen – im Sinne der die Öffentlichkeit tragenden Medien genauso wie als Sprecher:innen, die in der Öffentlichkeit stehen, oder als Gegenstand öffentlicher Berichterstattung.
+Ziel der „Datenbank öffentlicher Sprecher:innen“ (DBÖS) ist, eine möglichst umfassende und regelmäßig aktualisierte Übersicht von Akteur:innen und ihren Web-Präsenzen zu führen, die zu gesellschaftlicher Öffentlichkeit in Deutschland beitragen – im Sinne der die Öffentlichkeit tragenden Medien genauso wie als Sprecher:innen, die in der Öffentlichkeit stehen oder Gegenstand öffentlicher Berichterstattung sind.
 
 Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](DOCUMENTATION.pdf).
 
@@ -10,8 +10,8 @@ Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](D
 
 Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen, bitten wir um eine [Zitation](CITATION).
 
-	Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2024): Die „Datenbank Öffentlicher
-	Sprecher“ (DBÖS). v2. Dezember 2024. Online verfügbar: https://doi.org/10.17605/OSF.IO/SK6T5.
+	Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2026): Die „Datenbank Öffentlicher
+	Sprecher“ (DBÖS). v3. März 2026. Online verfügbar: https://doi.org/10.17605/OSF.IO/SK6T5.
 
 Die Dateien befinden sich im Ordner [data](data/). Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen und in [types.csv](types.csv) gelisteten Typen numeriert. Zudem findet sich darin auch XLSX-Dateien mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
 
