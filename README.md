@@ -10,8 +10,7 @@ Eine ausführliche Beschreibung ihrer Daten findet sich in [DOCUMENTATION.pdf](D
 
 Eine Nutzung ist unter Beachtung der [CC-BY Lizenz](LICENSE) jederzeit möglich. Bei akademischen Veröffentlichungen, die sich die Daten zunutze machen, bitten wir um eine [Zitation](CITATION).
 
-	Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2026): Die „Datenbank Öffentlicher
-	Sprecher“ (DBÖS). v3. März 2026. Online verfügbar: https://doi.org/10.17605/OSF.IO/SK6T5.
+	Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2026): Die „Datenbank Öffentlicher Sprecher:innen“ (DBÖS). v3. März 		2026. Online verfügbar: https://doi.org/10.17605/OSF.IO/SK6T5.
 
 Die Dateien befinden sich im Ordner [data](data/). Die CSV-Dateien sind entsprechend der in der [Dokumentation](DOCUMENTATION.pdf) beschriebenen und in [types.csv](types.csv) gelisteten Typen numeriert. Zudem findet sich darin auch XLSX-Dateien mit allen Daten für den Gebrauch in Spreadsheet-Editoren wie Libre-Office oder Excel.
 
